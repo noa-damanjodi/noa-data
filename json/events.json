@@ -1,13 +1,5 @@
 {
-  "coming": [
-    {
-      "date": "08-01-2026",
-      "title": "EC BODY MEETING JAN-2026",
-      "desc": "EC Body Meeting as per schedule for the month of January 2026",
-      "status": "COMING",
-      "newTag": ""
-    }
-  ],
+  "coming": [],
   "important": [],
   "past": [
     {
@@ -39,11 +31,25 @@
       "newTag": ""
     },
     {
+      "date": "09-01-2026",
+      "title": "EC BODY MEETING JAN-2026(1)",
+      "desc": "EC Body Meeting as per schedule for the month of January 2026",
+      "status": "PAST",
+      "newTag": ""
+    },
+    {
       "date": "30-12-2025",
       "title": "EC BODY MEETING DEC-2025",
       "desc": "EC Body Meeting at 08:00PM at NOA Office to discuss for coming events & members are requested to join",
       "status": "PAST",
       "newTag": ""
+    },
+    {
+      "date": "12-01-2026",
+      "title": "EC BODY MEETING JAN-2026(2)",
+      "desc": "NOA EC body meeting to discuss the furthcoming NOA founadtion day celebrations",
+      "status": "PAST",
+      "newTag": "NEW"
     }
   ]
 }
