@@ -1,21 +1,6 @@
 {
-  "coming": [
-    {
-      "date": "24-01-2026",
-      "title": "Retirement Farewell  of  January 2026",
-      "desc": "On 24th of January we shall give farewell to our beloved ED Sri Niranjan Samal Sir. CGM (CRG) Sri D Sreedhar Kumar Sir, Sri Rakesh ku.Gangrade sir ,GM (Mech), Dept Project, Sri Rabindranath Nayak sir, GM(Mech), SPP.It is requested to witness the function timely and have a good gathering.",
-      "status": "COMING",
-      "newTag": "NEW"
-    }
-  ],
+  "coming": [],
   "important": [
-    {
-      "date": "25-01-2026",
-      "title": "Foundation Day Celebration",
-      "desc": "37th Foundation day celebration at 10:00AM",
-      "status": "IMPORTANT",
-      "newTag": "NEW"
-    },
     {
       "date": "28-01-2026",
       "title": "Family Get Together",
@@ -75,11 +60,25 @@
       "newTag": ""
     },
     {
+      "date": "24-01-2026",
+      "title": "Retirement Farewell  of  January 2026",
+      "desc": "On 24th of January we shall give farewell to our beloved ED Sri Niranjan Samal Sir. CGM (CRG) Sri D Sreedhar Kumar Sir, Sri Rakesh ku.Gangrade sir ,GM (Mech), Dept Project, Sri Rabindranath Nayak sir, GM(Mech), SPP.It is requested to witness the function timely and have a good gathering.",
+      "status": "PAST",
+      "newTag": "NEW"
+    },
+    {
       "date": "19-01-2026",
       "title": "EC BODY MEETING JAN-2026(3)",
       "desc": "Esteemed members are requested to kindly attend today's meeting to  deliberate on the  finalization and fine -tuning  over various arrangements for the forthcoming foundation day celebrations.The meeting will also cover activities  related to the farewell function ",
       "status": "PAST",
       "newTag": ""
+    },
+    {
+      "date": "25-01-2026",
+      "title": "Foundation Day Celebration",
+      "desc": "37th Foundation day celebration at 10:00AM",
+      "status": "PAST",
+      "newTag": "NEW"
     }
   ]
 }
