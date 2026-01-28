@@ -1,14 +1,6 @@
 {
   "coming": [],
-  "important": [
-    {
-      "date": "28-01-2026",
-      "title": "Family Get Together",
-      "desc": "Family Get together at 7:30PM onwards.Coupons to be collected from NOA building at 7PM-9PM between 22nd Jan-26th Jan 2026",
-      "status": "IMPORTANT",
-      "newTag": "NEW"
-    }
-  ],
+  "important": [],
   "past": [
     {
       "date": "28-11-2025",
@@ -79,6 +71,13 @@
       "desc": "37th Foundation day celebration at 10:00AM",
       "status": "PAST",
       "newTag": ""
+    },
+    {
+      "date": "28-01-2026",
+      "title": "Family Get Together",
+      "desc": "Family Get together at 7:30PM onwards.Coupons to be collected from NOA building at 7PM-9PM between 22nd Jan-26th Jan 2026",
+      "status": "PAST",
+      "newTag": "NEW"
     }
   ]
 }
