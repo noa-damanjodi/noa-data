@@ -1,13 +1,5 @@
 {
-  "coming": [
-    {
-      "date": "20-02-2026",
-      "title": "EC BODY MEETING FEB-2026",
-      "desc": "EC Body Meeting as per schedule for the month of February 2026 on 20-Feb-2026",
-      "status": "COMING",
-      "newTag": "NEW"
-    }
-  ],
+  "coming": [],
   "important": [],
   "past": [
     {
@@ -86,6 +78,13 @@
       "desc": "Family Get together at 7:30PM onwards.Coupons to be collected from NOA building at 7PM-9PM between 22nd Jan-26th Jan 2026",
       "status": "PAST",
       "newTag": ""
+    },
+    {
+      "date": "20-02-2026",
+      "title": "EC BODY MEETING FEB-2026",
+      "desc": "EC Body Meeting as per schedule for the month of February 2026 on 20-Feb-2026",
+      "status": "PAST",
+      "newTag": "NEW"
     }
   ]
 }
