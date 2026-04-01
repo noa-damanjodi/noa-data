@@ -1,17 +1,56 @@
 {
   "superannuation": [
     {
-      "colA": "04044",
-      "colB": "Swarupananda Mishra",
-      "colC": "1966-03-21T08:00:00.000Z",
-      "colD": "2026-03-01T08:00:00.000Z",
-      "colE": "MATERIALS",
+      "colA": "04715",
+      "colB": "Vedula Surendra Sai Anand",
+      "colC": "1966-05-01T07:00:00.000Z",
+      "colD": "2026-04-01T07:00:00.000Z",
+      "colE": "PROJECT & TECHNICAL",
       "colF": "E8",
-      "colG": "Chief General Manager (Materials)",
+      "colG": "EPO-ED(Project)",
       "colH": "M",
-      "colI": 9437043184,
-      "colJ": "SWARUPANANDA.MISHRA@NALCOINDIA.CO.IN",
-      "image": "https://raw.githubusercontent.com/noa-damanjodi/noa-data/main/image/superannuation/04044.jpg"
+      "colI": 9437097035,
+      "colJ": "VEDULA.ANAND@NALCOINDIA.CO.IN",
+      "image": "https://raw.githubusercontent.com/noa-damanjodi/noa-data/main/image/superannuation/04715.jpg"
+    },
+    {
+      "colA": "05631",
+      "colB": "Partha Bandopadhyay",
+      "colC": "1966-04-28T07:00:00.000Z",
+      "colD": "2026-04-01T07:00:00.000Z",
+      "colE": "RESEARCH & DEVELOPMENT",
+      "colF": "E7",
+      "colG": "General Manager(Chemical)",
+      "colH": "M",
+      "colI": 9437055216,
+      "colJ": "PARTHA.BANDOPADHYAY@NALCOINDIA.CO.IN",
+      "image": "https://raw.githubusercontent.com/noa-damanjodi/noa-data/main/image/superannuation/05631.jpg"
+    },
+    {
+      "colA": "06136",
+      "colB": "Nainar Paulraj",
+      "colC": "1966-04-02T08:00:00.000Z",
+      "colD": "2026-04-01T07:00:00.000Z",
+      "colE": "CIVIL",
+      "colF": "E4",
+      "colG": "Senior Manager(Civil)",
+      "colH": "M",
+      "colI": 9437094293,
+      "colJ": "NAINAR.PAULRAJ@NALCOINDIA.CO.IN",
+      "image": "https://raw.githubusercontent.com/noa-damanjodi/noa-data/main/image/superannuation/06136.jpg"
+    },
+    {
+      "colA": "05648",
+      "colB": "Nalinikanta Jena",
+      "colC": "1966-04-25T07:00:00.000Z",
+      "colD": "2026-04-01T07:00:00.000Z",
+      "colE": "SECRETARIATE",
+      "colF": "E8",
+      "colG": "Chief General Manager(O&M) Mines",
+      "colH": "M",
+      "colI": 9437966673,
+      "colJ": "NALINIKANTA.JENA@NALCOINDIA.CO.IN",
+      "image": "https://raw.githubusercontent.com/noa-damanjodi/noa-data/main/image/superannuation/05648.jpg"
     }
   ]
 }
