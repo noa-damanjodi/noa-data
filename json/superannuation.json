@@ -1,17 +1,17 @@
 {
   "superannuation": [
     {
-      "colA": "02189",
-      "colB": "Dillip Kumar Sahoo",
-      "colC": "1966-06-28T07:00:00.000Z",
-      "colD": "2026-06-01T07:00:00.000Z",
-      "colE": "OPERATION",
-      "colF": "E6",
-      "colG": "Deputy General Manager(Chemical)",
+      "colA": "06261",
+      "colB": "Manoranjan Rath",
+      "colC": "1966-07-15T07:00:00.000Z",
+      "colD": "2026-07-01T07:00:00.000Z",
+      "colE": "ADMINISTRATION",
+      "colF": "E5",
+      "colG": "Assistant General Manager(Horticulture)",
       "colH": "M",
-      "colI": 9437037853,
-      "colJ": "DILLIP2.SAHOO@NALCOINDIA.CO.IN",
-      "image": "https://raw.githubusercontent.com/noa-damanjodi/noa-data/main/image/superannuation/02189.jpg"
+      "colI": 9437093085,
+      "colJ": "MANORANJAN.RATH@NALCOINDIA.CO.IN",
+      "image": "https://raw.githubusercontent.com/noa-damanjodi/noa-data/main/image/superannuation/06261.jpg"
     }
   ]
 }
