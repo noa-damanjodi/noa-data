@@ -1,3 +1,17 @@
 {
-  "superannuation": []
+  "superannuation": [
+    {
+      "colA": "06261",
+      "colB": "Manoranjan Rath",
+      "colC": "1966-07-15T07:00:00.000Z",
+      "colD": "2026-07-01T07:00:00.000Z",
+      "colE": "ADMINISTRATION",
+      "colF": "E5",
+      "colG": "Assistant General Manager(Horticulture)",
+      "colH": "M",
+      "colI": 9437093085,
+      "colJ": "MANORANJAN.RATH@NALCOINDIA.CO.IN",
+      "image": "https://raw.githubusercontent.com/noa-damanjodi/noa-data/main/image/superannuation/06261.jpg"
+    }
+  ]
 }
