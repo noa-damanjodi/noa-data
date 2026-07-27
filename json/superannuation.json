@@ -12,6 +12,32 @@
       "colI": 9437093085,
       "colJ": "MANORANJAN.RATH@NALCOINDIA.CO.IN",
       "image": "https://raw.githubusercontent.com/noa-damanjodi/noa-data/main/image/superannuation/06261.jpg"
+    },
+    {
+      "colA": "02190",
+      "colB": "Simanchal Tripathy",
+      "colC": "1966-02-07T08:00:00.000Z",
+      "colD": "2026-07-01T07:00:00.000Z",
+      "colE": "OPERATION",
+      "colF": "E5",
+      "colG": "Assistant General Manager(Chemical)",
+      "colH": "M",
+      "colI": 9437559800,
+      "colJ": "SIMANCHAL.TRIPATHY@NALCOINDIA.CO.IN",
+      "image": "https://raw.githubusercontent.com/noa-damanjodi/noa-data/main/image/superannuation/02190.jpg"
+    },
+    {
+      "colA": "05531",
+      "colB": "Subash Chandra Hialo",
+      "colC": "1966-02-07T08:00:00.000Z",
+      "colD": "2026-07-01T07:00:00.000Z",
+      "colE": "S P P",
+      "colF": "E6",
+      "colG": "Deputy General Manager(Mechanical)",
+      "colH": "M",
+      "colI": 9437189237,
+      "colJ": "SUBASH.HIALO@NALCOINDIA.CO.IN",
+      "image": "https://raw.githubusercontent.com/noa-damanjodi/noa-data/main/image/superannuation/05531.jpg"
     }
   ]
 }
