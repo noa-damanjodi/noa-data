@@ -1,17 +1,30 @@
 {
   "superannuation": [
     {
-      "colA": "04766",
-      "colB": "Rabi Narayan Pal",
-      "colC": "1966-08-30T07:00:00.000Z",
-      "colD": "2026-08-01T07:00:00.000Z",
+      "colA": "04152",
+      "colB": "Prakash Chandra Das",
+      "colC": "1966-08-09T07:00:00.000Z",
+      "colD": "2026-09-01T07:00:00.000Z",
       "colE": "ELECTRICAL",
-      "colF": "E3",
-      "colG": "Manager(Electrical)",
+      "colF": "E5",
+      "colG": "Assistant General Manager (Electrical)",
       "colH": "M",
-      "colI": 9437155779,
-      "colJ": "RABI.PAL@NALCOINDIA.CO.IN",
-      "image": "https://raw.githubusercontent.com/noa-damanjodi/noa-data/main/image/superannuation/04766.jpg"
+      "colI": 9437159504,
+      "colJ": "PRAKASH.DAS@NALCOINDIA.CO.IN",
+      "image": "https://raw.githubusercontent.com/noa-damanjodi/noa-data/main/image/superannuation/04152.jpg"
+    },
+    {
+      "colA": "06171",
+      "colB": "Sandhya Rani Lakra",
+      "colC": "1966-09-18T07:00:00.000Z",
+      "colD": "2026-09-01T07:00:00.000Z",
+      "colE": "MEDICAL",
+      "colF": "E6",
+      "colG": "Deputy General Manager(MS)",
+      "colH": "F",
+      "colI": 9437029560,
+      "colJ": "SANDHYALAKRA@NALCOINDIA.CO.IN",
+      "image": "https://raw.githubusercontent.com/noa-damanjodi/noa-data/main/image/superannuation/06171.jpg"
     }
   ]
 }
